@@ -1,0 +1,89 @@
+/* Localized versions of Info.plist keys */
+
+"APP_NAME"= "Halfpintpicks";
+
+"VALIDATION_EMAIL_REQUIRED" = "Please enter email address.";
+"VALIDATION_INVITATIONCODE_REQUIRED" = "Please enter Invitationcode.";
+"VALIDATION_PASSWORD_REQUIRED" = "Please enter password.";
+"VALIDATION_PASSWORD_LENGTH" = "Password must have atleast 6 characters";
+"INVITATIONCODE_VERIFYT_HUD_TEXT" = "Verifing...";
+"INVITATIONCODE_REQUEST_HUD_TEXT" = "Requesting...";
+"LOADING_HUD_TEXT" = "Loading..";
+"INTERNETCONNECTION_ERROR"="Sorry , You are not connected to internet. Please check your connectivity.";
+"VALIDATION_FIELDS_REQUIRED" = "Following fields are required:\n";
+"Validations_EmailValidationMessage" = "Please enter a valid E-Mail address.";
+"VALIDATION_ADDRESS_UPDATED" = "Your Shipping information successfully updated.";
+"VALIDATION_CARDDETAILS" = "Please enter valid card details.";
+
+//Alert Messages
+"ALERT_INVITATIONCODE_SUCCESS" = "Thank you for joining with us. \n Your email is successfully registered with us . Please check your email for Invitation code";
+"ALERT_INVITATIONCODE_ALREADY_REQUEST" = "Requested email has already requested for code. Please Check mail";
+"ALERT_VERIFYINVITATION_ERROR" = "Requested email has already requested for code. Please Check mail";
+"ALERT_WEBSERVICE_ERROR" = "There is some error occured in web service .PLease try again.";
+"ALERT_DELETECONFIRMATION_MESSAGE" = "Are you sure want to delete kid?";
+
+//Settings Screen
+"Settings_Title" = "SETTINGS";
+"Settings_Header_Account" = "ACCOUNT";
+"Settings_lbl_EditProfile" = "Edit Profile";
+"Settings_lbl_BillingInfo" = "Billing Info";
+"Settings_lbl_ShippingInfo" = "Shipping Info";
+"Settings_lbl_Payout" = "Manage Payouts";
+"Settings_Header_Settings" = "SETTINGS";
+"Settings_lbl_Notifications" = "Notifications";
+"Settings_lbl_Logout" = "Logout";
+
+//Manage Payout Screen
+"ManagePayout_Title" = "MANAGE PAYOUTS";
+"ManagePayout_lbl_TotalAvailable" = "TOTAL AVAILABLE";
+"ManagePayout_lbl_Cashout" = "AVAILABLE FOR CASH OUT";
+"ManagePayout_lbl_Credits" = "CREDITS";
+"ManagePayout_lbl_Instruction" = "Your total available funds may be used immidiately for purchase on Precious. Cash out amounts usually require 3-7 days after sale to deposit to a bank account or debit card.";
+"ManagePayout_lbl_Withdraw" = "Withdrawal Method";
+"ManagePayout_lbl_Businessdays" = "1-2 business days";
+"ManagePayout_lbl_TransferFee" = "2.9% transfer fee";
+"ManagePayout_btn_DebitCard" = "DEBIT CARD";
+"ManagePayout_lbl_TransferMoney" = "Transfer up to $2,500";
+"ManagePayout_btn_BankAccount" = "BANK ACCOUNT";
+"ManagePayout_lbl_TransferMoneyLimit" = "Transfer up to $15,00";
+
+//Item Details Screen
+"ItemDetails_lbl_Brand" = "Brand";
+"ItemDetails_lbl_GenderDetail" = "Gender";
+"ItemDetails_lbl_SizeDetail" = "Size";
+"ItemDetails_lbl_Description" = "Description";
+"ItemDetails_lbl_Location" = "Location";
+"ItemDetails_lbl_Condition" = "Condition";
+"ItemDetails_lbl_Shipping" = "Shipping";
+"ItemDetails_lbl_InstructionHeader" = "30 Day Free Returns";
+"ItemDetails_lbl_Instruction" = "We stand by our promised to deliver only high quality goods to you. If you're not happy with something, be sure to return within 30 days of purchase for a full refund.";
+
+//Edit Profile Screen
+"EditProfile_lbl_PublicProfile" = "PUBLIC PROFILE";
+"EditProfile_lbl_Photo" = "Photo";
+"EditProfile_lbl_DisplayName" = "Display Name";
+"EditProfile_placeholder_DisplayName" = "Enter Name";
+"EditProfile_lbl_Location" = "Location";
+"EditProfile_placeholder_Location" = "Enter Location";
+"EditProfile_lbl_Bio" = "Bio";
+"EditProfile_placeholder_BioDescription" = "140 character description about yourself";
+"EditProfile_lbl_PrivateInfo" = "PRIVATE INFO";
+"EditProfile_lbl_Email" = "Email";
+"EditProfile_placeholder_Email" = "Your Current Email";
+"EditProfile_btn_Password" = "Password";
+
+//Billing Info Screen
+"BillingInfo_lbl_Name" = "Name";
+"BillingInfo_placeholder_Name" = "Name on card";
+"BillingInfo_lbl_PaymentDetails" = "Payment Details";
+"BillingInfo_lbl_CardDetails" = "Card Number";
+"BillingInfo_placehoder_CardNumber" = "0000 0000 0000 0000";
+"BillingInfo_lbl_Expiration" = "Expiration";
+"BillingInfo_plcaceholder_Month" = "MM";
+"BillingInfo_plcaholder_Year" = "YY";
+"BillingInfo_lbl_CVCode" = "CV Code";
+"BillingInfo_placeholder_CVCode" = "3-4 digits";
+"BillingInfo_lbl_Billing" = "Billing Zip Code";
+"BillingInfo_lbl_ZipCode" = "Zip Code";
+"BillingInfo_placeholder_ZipCode" = "Enter Zip";
+
